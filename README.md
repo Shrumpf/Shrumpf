@@ -6,7 +6,7 @@ shrumpf@github:~$ whoami
     Name             ->     Flo
     Languages        ->     German, English
     Work             ->     Senior Web Developer (2017 - today)
-    Uptime           ->     30 years, 3 months, 14 days, 14 hours, 22 mins
+    Uptime           ->     30 years, 3 months, 15 days, 14 hours, 24 mins
 
     OS               ->     macOS, Windows, i use Arch btw, SteamOS
     Machines         ->     MacBook M1 Max, Futro S740, Raspberry Pi, Steamdeck
@@ -27,7 +27,7 @@ shrumpf@github:~$ whoami
                             communication, tenacity, adaptability
 
     GitHub Stats     ->     54 repos | 116 commits | 1 stars |
-                            4 followers | 42767 loc (+17615, -25152)
+                            5 followers | 42767 loc (+17615, -25152)
 
 └──────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
